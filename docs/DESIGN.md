@@ -76,7 +76,7 @@ pads (bare copper). Flash once with a USB-serial adapter, then it runs on the co
 ## 4. BOM
 > See [`BOM.md`](./BOM.md) (with LCSC confirm links), [`SOURCING.md`](./SOURCING.md), and
 > [`BOM_PCBWay.csv`](../fab/BOM_PCBWay.csv).
-> Catalogue-exact footprints in `Parts.pretty`; symbols in `Parts.kicad_sym` (via `easyeda2kicad`).
+> Catalogue-exact footprints in `Parts.pretty`; symbols in `Parts.kicad_sym`.
 > 56 placements. LSM6DS3TR-C = JLC Standard-PCBA-only + fixture; blue LEDs are dim on coin
 > (swap to red for brightness, same footprint).
 
@@ -98,7 +98,7 @@ pads (bare copper). Flash once with a USB-serial adapter, then it runs on the co
    (0.5 mm pitch), standard and JLC-manufacturable.
 
 **Full schematic complete: 54 components, ERC 0 errors** (remaining 41 warnings are benign
-`pin_to_pin` "unspecified pin-type" notices inherent to easyeda2kicad-imported symbols).
+`pin_to_pin` "unspecified pin-type" notices inherent to imported catalogue symbols).
 Counts verified 2026-08-02 against `kicad-cli sch erc` / `sch export netlist`; SW3 is
 included. Note 54 schematic components vs 52 CPL placements, ANT1 and J1 are the
 difference, both bare copper and excluded from BOM/CPL.

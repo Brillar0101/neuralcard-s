@@ -1,4 +1,4 @@
-(module easyeda2kicad:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5 (layer F.Cu) (tedit 5DC5F6A4)
+(module Parts:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5 (layer F.Cu) (tedit 5DC5F6A4)
 	(attr smd)
 	(fp_text reference REF** (at 0.000 -5.850) (layer F.SilkS)
 		(effects (font (size 1 1) (thickness 0.15)))

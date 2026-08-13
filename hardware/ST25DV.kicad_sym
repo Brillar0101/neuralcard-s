@@ -1,6 +1,6 @@
 (kicad_symbol_lib
   (version 20211014)
-  (generator https://github.com/uPesy/easyeda2kicad.py)
+  (generator "kicad_symbol_editor")
 
   (symbol "ST25DV04KC-IE6S3"
     (in_bom yes)

@@ -1,4 +1,4 @@
-(module easyeda2kicad:LED0603-FD_BLUE (layer F.Cu) (tedit 5DC5F6A4)
+(module Parts:LED0603-FD_BLUE (layer F.Cu) (tedit 5DC5F6A4)
 	(descr "0603")
 	(attr smd)
 	(fp_text reference REF** (at 0.000 -4.000) (layer F.SilkS)

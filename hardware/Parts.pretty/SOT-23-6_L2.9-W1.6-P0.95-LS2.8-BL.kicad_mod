@@ -1,4 +1,4 @@
-(module easyeda2kicad:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL (layer F.Cu) (tedit 5DC5F6A4)
+(module Parts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL (layer F.Cu) (tedit 5DC5F6A4)
 	(descr "USBLC6-2SC6")
 	(attr smd)
 	(fp_text reference REF** (at 0.000 -5.149) (layer F.SilkS)

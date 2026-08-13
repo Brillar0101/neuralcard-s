@@ -1,4 +1,4 @@
-(module easyeda2kicad:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR (layer F.Cu) (tedit 5DC5F6A4)
+(module Parts:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR (layer F.Cu) (tedit 5DC5F6A4)
 	(descr "AO3401A")
 	(attr smd)
 	(fp_text reference REF** (at 0.000 -4.950) (layer F.SilkS)

@@ -1,4 +1,4 @@
-(module easyeda2kicad:LED-SMD_L1.6-W0.8-R-RD (layer F.Cu) (tedit 5DC5F6A4)
+(module Parts:LED-SMD_L1.6-W0.8-R-RD (layer F.Cu) (tedit 5DC5F6A4)
 	(descr "0603 red LED, KENTO KT-0603R rev A.0. Body 1.60x0.80x0.60 mm. Land pattern per datasheet section 2 (0.70x0.70 pads, 0.70 gap, span 2.10). Pin 1 = anode (+), pin 2 = cathode (silk bracket).")
 	(tags "LED 0603 KT-0603R")
 	(attr smd)
