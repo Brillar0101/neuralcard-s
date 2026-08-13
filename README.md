@@ -8,6 +8,15 @@
 
 A business card that runs a neural network.
 
+> **This is the sponsorship build.** It is a fork of
+> [NeuralCard](https://github.com/Brillar0101/NeuralCard) prepared for a PCBWay
+> assembly run: the BOM has been rewritten from JLCPCB/LCSC part codes into
+> manufacturer part numbers PCBWay can actually quote, with approved alternates and
+> do-not-substitute rules on the parts where a swap would break the board. See
+> [`docs/SOURCING.md`](docs/SOURCING.md) for where PCBWay sources each component and
+> [`fab/BOM_PCBWay.csv`](fab/BOM_PCBWay.csv) for the order-ready BOM. The hardware
+> design is unchanged from upstream.
+
 It is a credit-card-sized PCB, 85.6 by 54 mm, carrying an ESP32-S3, a 6-axis
 IMU, and 24 LEDs laid out as the network it actually runs: 6 input neurons,
 8 hidden, 10 output. You hold the card, draw a digit in the air, and the LEDs
@@ -29,9 +38,9 @@ field powers the tag.
 | Path | What's in it |
 |---|---|
 | `hardware/` | KiCad 10 project: schematic, board, custom symbol and footprint libraries, 3D models |
-| `fab/` | Manufacturing outputs: gerber zip, drill files, BOM with LCSC part numbers, pick-and-place |
+| `fab/` | Manufacturing outputs: gerber zip, drill files, pick-and-place, and two BOMs — `BOM_PCBWay.csv` (MPN-based, for this build) and `BOM_JLCPCB.csv` (upstream, LCSC codes) |
 | `firmware/` | ESP-IDF project. Charlieplex driver, IMU driver, gesture recorder. Builds today. |
-| `docs/` | Design rationale, datasheet findings, DRC history, audits, FAQ |
+| `docs/` | Design rationale, component sourcing, datasheet findings, DRC history, audits, FAQ |
 | `render/` | The board renders used above |
 | `CHANGELOG.md` | Revision history, newest first |
 
