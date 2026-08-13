@@ -37,8 +37,8 @@ fp-info-cache
 NeuralCard.dsn
 NeuralCard.ses
 
-# Note: BOM_JLCPCB.csv and fab/*.csv ARE tracked on purpose — they are the
-# release deliverables uploaded to JLCPCB, not incidental KiCad exports.
+# Note: the fab/*.csv BOMs ARE tracked on purpose. They are release
+# deliverables uploaded to the fab, not incidental KiCad exports.
 
 # --------------------------------------------------------------- heavy / derivable
 *.blend

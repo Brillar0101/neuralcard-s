@@ -17,7 +17,7 @@
 | Corner radius | **3.18 mm** |
 | PCB thickness | **1.6 mm** standard for prototypes; 0.8 mm is the card-like option |
 | Layers | 2-layer |
-| Assembly | **100% SMD/SMT. Only non-soldered item = the CR2032 coin.** Fab: **JLCPCB**. |
+| Assembly | **100% SMD/SMT. Only non-soldered item = the CR2032 coin.** Fab: **PCBWay** (sponsorship build). |
 
 Board outline is on `Edge.Cuts` in `NeuralCard.kicad_pcb` (render-verified).
 

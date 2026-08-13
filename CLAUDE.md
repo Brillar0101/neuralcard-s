@@ -58,7 +58,7 @@ Before committing anything that touches copper, all of these must pass:
 3. Connectivity: every net a single cluster, checked in `pcbnew`
 4. Regenerate gerbers, drill, CPL, both renders, and rebuild the fab zip
 
-If the JLCPCB cart holds an older revision after a copper change, it needs the
+If the fab cart holds an older revision after a copper change, it needs the
 new files or it will build the wrong board.
 
 ## Versioning

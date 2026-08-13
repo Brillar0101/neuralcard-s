@@ -186,13 +186,16 @@ Hand assembly means ordering bare boards plus a solder-paste stencil and
 buying parts from LCSC. It is the cheapest route, and the stencil is what makes
 the LGA-14 IMU tractable with hot air.
 
-Factory assembly means JLCPCB Standard PCBA on both sides. It adds roughly $100
-of fixed setup and feeder cost, so it only pays off around 30 boards or more.
+Factory assembly means turnkey PCBA on both sides. It adds roughly $100 of fixed
+setup and feeder cost at a typical prototype house, so it only pays off around 30
+boards or more. This build is being assembled by PCBWay under sponsorship, so see
+[`docs/SOURCING.md`](docs/SOURCING.md) for how the parts are actually bought.
 
 Two BOM notes. C12, the NFC tuning cap, ships as 68 pF and should be retuned
 against the coil once it exists. Read range is the practical test. The NFC chip
-is specified as ST25DV04K-IER6S3, a substitute for the original KC variant that
-is nearly out of stock everywhere. Same package, same pinout, same function.
+is ST25DV04KC-IE6S3, which is the active part. The older ST25DV04K-IER6S3 is
+marked not recommended for new designs but is still widely stocked, and it is
+listed as the approved fallback: same package, same pinout, same function.
 
 ## Status
 
