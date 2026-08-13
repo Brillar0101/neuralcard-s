@@ -102,7 +102,7 @@
 		(fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
 		(polygon (pts (xy -9.00 -16.38) (xy 9.00 -16.38) (xy 9.00 -10.38) (xy -9.00 -10.38)))
 	)
-	(model "${KIPRJMOD}/JLC.3dshapes/WIRELM-SMD_ESP32-S3-WROOM-1.step"
+	(model "${KIPRJMOD}/Parts.3dshapes/WIRELM-SMD_ESP32-S3-WROOM-1.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

@@ -361,7 +361,7 @@
 			(uuid "cf9f17c1-3b86-4e3c-b259-5eaa9ce3e140")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -646,7 +646,7 @@
 			(uuid "0497e875-3203-4015-9730-cf4cf7ed3b73")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -931,7 +931,7 @@
 			(uuid "8e0f6991-348f-486f-879c-4e8dc233d72f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1216,7 +1216,7 @@
 			(uuid "771857d4-ef79-40c5-8e76-425ed63395c1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1501,7 +1501,7 @@
 			(uuid "d10921bd-ff09-4f36-8b85-e6186d286db5")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1786,7 +1786,7 @@
 			(uuid "39c624c3-eb1e-4a9b-bfdc-33ea7dcc0d4e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2071,7 +2071,7 @@
 			(uuid "2e9c6e4b-ad3b-42de-8936-81ad23b86ac1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2356,7 +2356,7 @@
 			(uuid "bb7b0073-ed2f-4ca5-a4dd-6e4c313ba115")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2641,7 +2641,7 @@
 			(uuid "e20c1133-76f4-43e4-8918-cfd5fd095b30")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2926,7 +2926,7 @@
 			(uuid "001b14b1-847d-49d7-b712-806745be9351")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3211,7 +3211,7 @@
 			(uuid "218e9569-fc23-4e3a-9143-5fb22d3a8425")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3496,7 +3496,7 @@
 			(uuid "24fefc99-a54c-4238-b253-2bf3255b32fa")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3781,7 +3781,7 @@
 			(uuid "fcff66bb-8a2b-4ca2-8785-8c33efd27e2d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4066,7 +4066,7 @@
 			(uuid "398ab209-1da7-40c0-9a15-518103b07b18")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4351,7 +4351,7 @@
 			(uuid "b4cabb3b-8987-4248-aa0d-462161e0d2c6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4636,7 +4636,7 @@
 			(uuid "0188eb3c-f772-40ed-ab6e-e2ea14dcc787")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4921,7 +4921,7 @@
 			(uuid "731af27d-2161-4f4a-9e39-5e0211083034")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5206,7 +5206,7 @@
 			(uuid "ed121243-92af-4af7-8251-680a2765e41d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5491,7 +5491,7 @@
 			(uuid "d6142069-97cb-45ed-8178-18e23dc13db2")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5776,7 +5776,7 @@
 			(uuid "524381b5-99ee-49c6-8f26-f5abac26e2bf")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6061,7 +6061,7 @@
 			(uuid "1aee1ab0-1956-4744-8cc0-997dc0790e41")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6346,7 +6346,7 @@
 			(uuid "4ac7f9dc-915d-4fd2-91d7-dadcd80eaa6f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6631,7 +6631,7 @@
 			(uuid "627b5ce1-fd2a-4daa-b213-3f85b7611422")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6916,7 +6916,7 @@
 			(uuid "eba4b555-a07f-4fa7-8b27-f959d0eafff6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7362,7 +7362,7 @@
 			(uuid "a8c6cb31-b874-48e0-b1a0-b6c65eec7a06")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9564,7 +9564,7 @@
 			(uuid "3169ec00-c4d9-447c-a480-75e4d405531b")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10785,7 +10785,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/WIRELM-SMD_ESP32-S3-WROOM-1.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/WIRELM-SMD_ESP32-S3-WROOM-1.step"
 			(offset
 				(xyz 0 3.6 0)
 			)
@@ -11170,7 +11170,7 @@
 			(uuid "704f7f5a-1d50-4792-a9fa-3683e8992914")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/MSK12C02.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/MSK12C02.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13637,7 +13637,7 @@
 			(uuid "c7d230e2-82be-4950-840f-c2d476f4b791")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/BAT-SMD_L28.5-W16.0-H5.5-LS31.3_CR2032-BS-6-1.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/BAT-SMD_L28.5-W16.0-H5.5-LS31.3_CR2032-BS-6-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14236,7 +14236,7 @@
 			(uuid "ff51ba5e-1694-48d5-a1be-3c3b2b9666e8")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15319,7 +15319,7 @@
 			(uuid "3dcc85b5-2391-4854-a65e-8d84d36c36ac")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15918,7 +15918,7 @@
 			(uuid "332d9e3d-6265-4851-9c71-d3c3304729d6")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/USB-C_SMD-TYPE-C-31-M-12_1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17497,7 +17497,7 @@
 			(uuid "190349ad-bcca-41f1-9786-4f9ea9e648e3")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/LGA-14_L2.5-W3.0-H0.9-P0.50.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/LGA-14_L2.5-W3.0-H0.9-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17760,7 +17760,7 @@
 			(uuid "38bf1800-ece1-45b2-857c-bc178d380c91")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/JLC.3dshapes/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
+		(model "${KIPRJMOD}/Parts.3dshapes/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)

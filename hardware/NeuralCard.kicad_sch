@@ -939,7 +939,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:AO3401A"
+		(symbol "Parts:AO3401A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -965,7 +965,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
+			(property "Footprint" "Parts:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1256,7 +1256,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:CR2032-BS-6-1"
+		(symbol "Parts:CR2032-BS-6-1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1282,7 +1282,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:BAT-TH_CR2032-BS-6-1"
+			(property "Footprint" "Parts:BAT-TH_CR2032-BS-6-1"
 				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1447,7 +1447,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:ESP32-S3-WROOM-1"
+		(symbol "Parts:ESP32-S3-WROOM-1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1473,7 +1473,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:WIRELM-SMD_ESP32-S3-WROOM-1"
+			(property "Footprint" "Parts:WIRELM-SMD_ESP32-S3-WROOM-1"
 				(at 0 -43.18 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2314,7 +2314,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:LSM6DS3TR-C"
+		(symbol "Parts:LSM6DS3TR-C"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2340,7 +2340,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:LGA-14_L3.0-W2.5-P0.50-TL"
+			(property "Footprint" "Parts:LGA-14_L3.0-W2.5-P0.50-TL"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2695,7 +2695,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:ME6211C33M5G-N"
+		(symbol "Parts:ME6211C33M5G-N"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2721,7 +2721,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
+			(property "Footprint" "Parts:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
 				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2925,7 +2925,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:TS-1187A-B-A-B"
+		(symbol "Parts:TS-1187A-B-A-B"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2951,7 +2951,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
+			(property "Footprint" "Parts:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
 				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3186,7 +3186,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:TYPE-C-31-M-12"
+		(symbol "Parts:TYPE-C-31-M-12"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3212,7 +3212,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:USB-C_SMD-TYPE-C-31-M-12_1"
+			(property "Footprint" "Parts:USB-C_SMD-TYPE-C-31-M-12_1"
 				(at 0 -21.59 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3592,7 +3592,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLC:USBLC6-2SC6"
+		(symbol "Parts:USBLC6-2SC6"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3618,7 +3618,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLC:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"
+			(property "Footprint" "Parts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9792,7 +9792,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:ME6211C33M5G-N")
+		(lib_id "Parts:ME6211C33M5G-N")
 		(at 330.2 59.69 0)
 		(unit 1)
 		(body_style 1)
@@ -9824,7 +9824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
+		(property "Footprint" "Parts:SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL"
 			(at 330 60 0)
 			(hide yes)
 			(show_name no)
@@ -10204,7 +10204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 162.56 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -10505,7 +10505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 314.96 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -11348,7 +11348,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:TS-1187A-B-A-B")
+		(lib_id "Parts:TS-1187A-B-A-B")
 		(at 199.39 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -11380,7 +11380,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
+		(property "Footprint" "Parts:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
 			(at 200 150 0)
 			(hide yes)
 			(show_name no)
@@ -11533,7 +11533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 111.76 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -12737,7 +12737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 111.76 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -13336,7 +13336,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 213.36 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -14309,7 +14309,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 213.36 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -14691,7 +14691,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 264.16 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -14952,7 +14952,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 264.16 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -15540,7 +15540,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:USBLC6-2SC6")
+		(lib_id "Parts:USBLC6-2SC6")
 		(at 261.62 66.04 0)
 		(unit 1)
 		(body_style 1)
@@ -15572,7 +15572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"
+		(property "Footprint" "Parts:SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL"
 			(at 262 66 0)
 			(hide yes)
 			(show_name no)
@@ -16333,7 +16333,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 60.96 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -16480,7 +16480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 264.16 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -17453,7 +17453,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 60.96 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -17568,7 +17568,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:LSM6DS3TR-C")
+		(lib_id "Parts:LSM6DS3TR-C")
 		(at 312.42 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -17600,7 +17600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LGA-14_L3.0-W2.5-P0.50-TL"
+		(property "Footprint" "Parts:LGA-14_L3.0-W2.5-P0.50-TL"
 			(at 312 150 0)
 			(hide yes)
 			(show_name no)
@@ -17783,7 +17783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 314.96 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -17930,7 +17930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 162.56 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -18385,7 +18385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 162.56 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -18686,7 +18686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 111.76 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -18878,7 +18878,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:CR2032-BS-6-1")
+		(lib_id "Parts:CR2032-BS-6-1")
 		(at 55.88 73.66 0)
 		(unit 1)
 		(body_style 1)
@@ -18910,7 +18910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:BAT-TH_CR2032-BS-6-1"
+		(property "Footprint" "Parts:BAT-TH_CR2032-BS-6-1"
 			(at 55.88 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -19211,7 +19211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 314.96 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -19960,7 +19960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 213.36 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -20600,7 +20600,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:TYPE-C-31-M-12")
+		(lib_id "Parts:TYPE-C-31-M-12")
 		(at 185.42 66.04 0)
 		(unit 1)
 		(body_style 1)
@@ -20632,7 +20632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:USB-C_SMD-TYPE-C-31-M-12_1"
+		(property "Footprint" "Parts:USB-C_SMD-TYPE-C-31-M-12_1"
 			(at 185 66 0)
 			(hide yes)
 			(show_name no)
@@ -20821,7 +20821,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 60.96 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -20968,7 +20968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 60.96 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -21262,7 +21262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 264.16 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -21556,7 +21556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 314.96 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -21825,7 +21825,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:AO3401A")
+		(lib_id "Parts:AO3401A")
 		(at 400.05 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -21857,7 +21857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "Parts:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
 			(at 400 58 0)
 			(hide yes)
 			(show_name no)
@@ -22161,7 +22161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 213.36 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -22532,7 +22532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 162.56 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -22647,7 +22647,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:TS-1187A-B-A-B")
+		(lib_id "Parts:TS-1187A-B-A-B")
 		(at 63.5 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -22679,7 +22679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
+		(property "Footprint" "Parts:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL_H1.5"
 			(at 64 150 0)
 			(hide yes)
 			(show_name no)
@@ -23070,7 +23070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:LED-SMD_L1.6-W0.8-R-RD"
+		(property "Footprint" "Parts:LED-SMD_L1.6-W0.8-R-RD"
 			(at 111.76 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -23185,7 +23185,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLC:ESP32-S3-WROOM-1")
+		(lib_id "Parts:ESP32-S3-WROOM-1")
 		(at 129.54 175.26 0)
 		(unit 1)
 		(body_style 1)
@@ -23217,7 +23217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JLC:WIRELM-SMD_ESP32-S3-WROOM-1"
+		(property "Footprint" "Parts:WIRELM-SMD_ESP32-S3-WROOM-1"
 			(at 130 175 0)
 			(hide yes)
 			(show_name no)

@@ -1,13 +1,16 @@
-# NeuralCard: Bill of Materials (JLCPCB assembly)
+# NeuralCard: Bill of Materials
 
 **Project:** NeuralCard, AI business card (air-writing digit recognition)
 **Owner:** Barakaeli Lawuo
-**Assembly:** JLCPCB SMT. **All parts SMD/SMT except the CR2032 coin** (the holder BT1 is SMT; only the coin itself is non-soldered).
-**Upload file for JLC:** `BOM_JLCPCB.csv` (+ a place/CPL file generated after PCB layout).
+**Assembly:** SMT. **All parts SMD/SMT except the CR2032 coin** (the holder BT1 is SMT; only the coin itself is non-soldered).
+**Upload file:** `BOM_PCBWay.csv` for this build (manufacturer part numbers, approved
+alternates, substitution rules). `BOM_JLCPCB.csv` is the upstream LCSC-keyed file.
+Both pair with `NeuralCard-cpl.csv` for placements. See [`SOURCING.md`](./SOURCING.md).
 
 > **Confirm every LCSC part number at the links below before ordering.** Actives/connectors
-> were pulled directly from LCSC (footprints are JLC-exact, in `JLC.pretty`). Passive (R/C)
-> codes are common JLC **Basic** parts, verify value/voltage/package on the linked page.
+> were pulled directly from LCSC (footprints are catalogue-exact, in `Parts.pretty`).
+> Passive (R/C) codes are common commodity parts, verify value/voltage/package on the
+> linked page.
 
 ---
 

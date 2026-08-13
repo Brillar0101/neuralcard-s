@@ -86,7 +86,7 @@
 	(fp_line (start -14.50 -2.35) (end -14.50 -3.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -14.50 -3.75) (end -11.30 -3.75) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -11.30 -3.75) (end -11.30 -8.25) (layer F.CrtYd) (width 0.05))
-	(model "${KIPRJMOD}/JLC.3dshapes/BAT-SMD_L28.5-W16.0-H5.5-LS31.3_CR2032-BS-6-1.step"
+	(model "${KIPRJMOD}/Parts.3dshapes/BAT-SMD_L28.5-W16.0-H5.5-LS31.3_CR2032-BS-6-1.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

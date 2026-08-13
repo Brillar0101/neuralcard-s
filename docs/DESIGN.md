@@ -74,8 +74,9 @@ pads (bare copper). Flash once with a USB-serial adapter, then it runs on the co
 ---
 
 ## 4. BOM
-> See [`BOM.md`](./BOM.md) (with JLC/LCSC confirm links) and [`BOM_JLCPCB.csv`](../fab/BOM_JLCPCB.csv).
-> JLC-exact footprints in `JLC.pretty`; symbols in `JLC.kicad_sym` (via `easyeda2kicad`).
+> See [`BOM.md`](./BOM.md) (with LCSC confirm links), [`SOURCING.md`](./SOURCING.md), and
+> [`BOM_PCBWay.csv`](../fab/BOM_PCBWay.csv).
+> Catalogue-exact footprints in `Parts.pretty`; symbols in `Parts.kicad_sym` (via `easyeda2kicad`).
 > 56 placements. LSM6DS3TR-C = JLC Standard-PCBA-only + fixture; blue LEDs are dim on coin
 > (swap to red for brightness, same footprint).
 
@@ -92,7 +93,7 @@ pads (bare copper). Flash once with a USB-serial adapter, then it runs on the co
    **Routed via Freerouting (headless): 465 tracks, 57 vias, 99% complete, 0 shorts/crossings.**
    - ⬜ Remaining manual finish (~5 min in GUI): USB-C connector fan-out (~2-3 jumpers:
      CC2, USBC_DP pad-pair) + a few GND pour islands. Autorouters + humans both fight USB-C fan-out.
-7. **Fab outputs**, `fab/NeuralCard_JLCPCB.zip` (Gerbers + drill), `fab/NeuralCard-cpl.csv`
+7. **Fab outputs**, `fab/NeuralCard_gerbers.zip` (Gerbers + drill), `fab/NeuralCard-cpl.csv`
    (pick & place), `BOM_JLCPCB.csv`. The 9 DRC items are internal to the USB-C footprint
    (0.5 mm pitch), standard and JLC-manufacturable.
 

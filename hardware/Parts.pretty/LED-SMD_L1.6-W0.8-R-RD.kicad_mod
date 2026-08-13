@@ -29,7 +29,7 @@
 	(fp_line (start 1.40 -0.70) (end 1.40 0.70) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 1.40 0.70) (end -1.40 0.70) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -1.40 0.70) (end -1.40 -0.70) (layer F.CrtYd) (width 0.05))
-	(model "${KIPRJMOD}/JLC.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
+	(model "${KIPRJMOD}/Parts.3dshapes/LED0603_L1.6-W0.8-H0.6.step"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 0))

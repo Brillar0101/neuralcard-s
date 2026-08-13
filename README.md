@@ -3,7 +3,7 @@
 [![KiCad 10](https://img.shields.io/badge/KiCad-10.0-0066CC)](https://www.kicad.org/)
 [![Board](https://img.shields.io/badge/board-85.6%20%C3%97%2054%20mm%20%C2%B7%202--layer-009596)](docs/DESIGN.md)
 [![DRC](https://img.shields.io/badge/DRC-0%20violations%20%C2%B7%200%20unconnected-3E8635)](docs/drc/README.md)
-[![Parts](https://img.shields.io/badge/BOM-61%20placements%20%C2%B7%2021%20unique-3E8635)](fab/BOM_JLCPCB.csv)
+[![Parts](https://img.shields.io/badge/BOM-61%20placements%20%C2%B7%2021%20unique-3E8635)](fab/BOM_PCBWay.csv)
 [![Rev](https://img.shields.io/badge/rev-v2.3.1-5752D1)](CHANGELOG.md)
 
 A business card that runs a neural network.
@@ -165,7 +165,7 @@ See [`firmware/README.md`](firmware/README.md).
 
 ## Ordering
 
-Everything a fab needs is in `fab/`: `NeuralCard_JLCPCB.zip` (gerbers +
+Everything a fab needs is in `fab/`: `NeuralCard_gerbers.zip` (gerbers +
 drill), `NeuralCard-cpl.csv` (placements), and a BOM. Use
 `BOM_PCBWay.csv` for this build, which carries manufacturer part numbers,
 approved alternates, and per-line substitution rules. `BOM_JLCPCB.csv` is the

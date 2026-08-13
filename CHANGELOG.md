@@ -6,6 +6,17 @@ Hardware revisions and fab-affecting fixes. Newest first.
 
 Sponsorship build, prepared for assembly by PCBWay. No copper changed.
 
+- **Part libraries renamed to be vendor neutral.** `JLC.pretty`, `JLC.3dshapes`,
+  and `JLC.kicad_sym` are now `Parts.pretty`, `Parts.3dshapes`, and
+  `Parts.kicad_sym`, with the library nickname changed from `JLC` to `Parts`
+  across the schematic, the board, both library tables, the netlist, and the
+  model paths inside every footprint. The names carry no fab branding in either
+  direction, so nothing says PCBWay either. `fab/NeuralCard_JLCPCB.zip` became
+  `fab/NeuralCard_gerbers.zip`, since that is the file uploaded to whichever fab
+  builds it. All 3D models still resolve and the board renders.
+  `fab/BOM_JLCPCB.csv` keeps its name: it genuinely is the JLCPCB-format
+  upstream BOM, and renaming it would make it misleading.
+
 - **Sourcing fields added to the design.** Every one of the 61 placed parts in
   both the schematic and the board carries three new hidden fields: `Alt MPN`,
   `Alt Mfr`, and `Sourcing`. The last one names the buying channel and the
