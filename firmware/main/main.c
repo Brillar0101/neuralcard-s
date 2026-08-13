@@ -5,11 +5,14 @@
 //   s        stream raw IMU samples as CSV until any key
 //   0-9      record one labelled gesture (for the training set)
 //   t        LED sweep test
+//   w        air-write a digit and classify it (pretrained model)
+//   p        print the last stroke the network was shown
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "charlieplex.h"
 #include "lsm6ds3.h"
 #include "gesture.h"
+#include "infer.h"
 #include <stdio.h>
 #include <math.h>
 
@@ -61,6 +64,8 @@ void app_main(void)
         int c = getchar();
         if (c == 's' && imu_ok) stream_imu();
         else if (c == 't') sweep();
+        else if (c == 'w' && imu_ok) infer_capture_and_classify();
+        else if (c == 'p') infer_dump_last_image();
         else if (c >= '0' && c <= '9' && imu_ok) {
             cp_clear();
             gesture_record_and_print(c - '0');

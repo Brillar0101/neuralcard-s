@@ -92,3 +92,8 @@ firmware/sdkconfig.old
 
 # ------------------------------------------------- tool binaries
 hardware/tools/freerouting.jar
+
+# ------------------------------------------------- firmware model export
+# The exporter is kept (it documents where the weights come from), but not the
+# ONNX file it downloads. Re-fetch it with tools/export_mnist_weights.py.
+firmware/tools/*.onnx
