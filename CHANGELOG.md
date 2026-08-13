@@ -2,6 +2,37 @@
 
 Hardware revisions and fab-affecting fixes. Newest first.
 
+## v2.3.1-s
+
+Sponsorship build, prepared for assembly by PCBWay. No copper changed.
+
+- **Sourcing fields added to the design.** Every one of the 61 placed parts in
+  both the schematic and the board carries three new hidden fields: `Alt MPN`,
+  `Alt Mfr`, and `Sourcing`. The last one names the buying channel and the
+  substitution rule, so the decision travels with the design rather than living
+  only in a spreadsheet. Fields are hidden text on the fab layer and touch no
+  copper.
+- **BOM rewritten for PCBWay.** `fab/BOM_PCBWay.csv` replaces LCSC part codes
+  with manufacturer part numbers, since PCBWay buys from Digi-Key, Mouser,
+  Farnell, Arrow, Avnet and local Shenzhen distributors, not the JLCPCB parts
+  library. `fab/BOM_JLCPCB.csv` is unchanged for comparison.
+- **U4 realigned with the schematic.** The old fab BOM asked for
+  ST25DV04K-IER6S3 while the schematic specified ST25DV04KC-IE6S3. The KC is the
+  active part and the K is marked NRND by ST, so the new BOM follows the
+  schematic and lists the K only as a fallback. The substitution had been made
+  at order time for LCSC stock reasons that do not apply here.
+- **Alternates found for two sole-source parts.** U3 (ME6211C33M5G-N, which no
+  Western distributor carries) gets AP2112K-3.3TRG1, pin-identical in SOT-23-5.
+  J2 gets XKB U262-161N-4BVC11, verified drop-in by measuring the land patterns:
+  NPTH pegs and shield legs agree to within 0.01 mm and the shield row spacing is
+  identical at 4.18 mm.
+- Verified after: DRC 0 violations, 0 unconnected; ERC 0 violations. Netlist
+  unchanged.
+
+Reasoning and per-part status in `docs/SOURCING.md`.
+
+---
+
 ## v2.3.1
 
 Audit against the "6 common PCB design mistakes" checklist, two findings fixed.

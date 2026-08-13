@@ -8,14 +8,15 @@
 
 A business card that runs a neural network.
 
-> **This is the sponsorship build.** It is a fork of
-> [NeuralCard](https://github.com/Brillar0101/NeuralCard) prepared for a PCBWay
-> assembly run: the BOM has been rewritten from JLCPCB/LCSC part codes into
-> manufacturer part numbers PCBWay can actually quote, with approved alternates and
-> do-not-substitute rules on the parts where a swap would break the board. See
-> [`docs/SOURCING.md`](docs/SOURCING.md) for where PCBWay sources each component and
-> [`fab/BOM_PCBWay.csv`](fab/BOM_PCBWay.csv) for the order-ready BOM. The hardware
-> design is unchanged from upstream.
+> This is the sponsorship build, a fork of
+> [NeuralCard](https://github.com/Brillar0101/NeuralCard) prepared for assembly by
+> PCBWay. The BOM has been rewritten from JLCPCB and LCSC part codes into
+> manufacturer part numbers PCBWay can quote, with approved alternates where a swap
+> is safe and do-not-substitute rules where it is not. Every part in the schematic
+> and the board now carries `Alt MPN`, `Alt Mfr`, and `Sourcing` fields alongside
+> the existing MPN. See [`docs/SOURCING.md`](docs/SOURCING.md) for the reasoning and
+> [`fab/BOM_PCBWay.csv`](fab/BOM_PCBWay.csv) for the order-ready BOM. No copper
+> changed, and DRC and ERC still pass clean.
 
 It is a credit-card-sized PCB, 85.6 by 54 mm, carrying an ESP32-S3, a 6-axis
 IMU, and 24 LEDs laid out as the network it actually runs: 6 input neurons,
@@ -38,7 +39,7 @@ field powers the tag.
 | Path | What's in it |
 |---|---|
 | `hardware/` | KiCad 10 project: schematic, board, custom symbol and footprint libraries, 3D models |
-| `fab/` | Manufacturing outputs: gerber zip, drill files, pick-and-place, and two BOMs — `BOM_PCBWay.csv` (MPN-based, for this build) and `BOM_JLCPCB.csv` (upstream, LCSC codes) |
+| `fab/` | Manufacturing outputs: gerber zip, drill files, pick-and-place, and two BOMs: `BOM_PCBWay.csv` (MPN-based, for this build) and `BOM_JLCPCB.csv` (upstream, LCSC codes) |
 | `firmware/` | ESP-IDF project. Charlieplex driver, IMU driver, gesture recorder. Builds today. |
 | `docs/` | Design rationale, component sourcing, datasheet findings, DRC history, audits, FAQ |
 | `render/` | The board renders used above |
@@ -165,8 +166,10 @@ See [`firmware/README.md`](firmware/README.md).
 ## Ordering
 
 Everything a fab needs is in `fab/`: `NeuralCard_JLCPCB.zip` (gerbers +
-drill), `BOM_JLCPCB.csv` (LCSC part numbers), `NeuralCard-cpl.csv`
-(placements).
+drill), `NeuralCard-cpl.csv` (placements), and a BOM. Use
+`BOM_PCBWay.csv` for this build, which carries manufacturer part numbers,
+approved alternates, and per-line substitution rules. `BOM_JLCPCB.csv` is the
+upstream file and is keyed to LCSC codes instead.
 
 Build spec: 2 layers, 1.6 mm thickness, green soldermask, HASL. That is the
 cheap prototype configuration, currently about $2 for five boards.

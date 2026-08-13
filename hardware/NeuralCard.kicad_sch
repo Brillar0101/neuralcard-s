@@ -9846,6 +9846,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" "AP2112K-3.3TRG1"
+			(at 330.2 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" "Diodes Incorporated"
+			(at 330.2 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "China-market part, NOT stocked at Digi-Key/Mouser. Shenzhen local stock -- PCBWay's preferred channel. If a Western distributor is used instead, the alternate is pin-identical in SOT-23-5 (1 VIN, 2 GND, 3 EN, 4 NC, 5 VOUT) and rated 600mA vs 500mA. No board change either way."
+			(at 330.2 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 330 60 0)
 			(hide yes)
@@ -10046,6 +10079,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 78.74 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 78.74 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 78.74 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 78.74 272 0)
 			(hide yes)
@@ -10150,6 +10216,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 162.56 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 162.56 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 162.56 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 162.56 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -10428,6 +10527,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 314.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 314.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 314.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 314.96 337.82 0)
 			(hide yes)
@@ -10609,6 +10741,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 111.76 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 111.76 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 111.76 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
 			(at 111.76 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -11090,6 +11255,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 187.96 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 187.96 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 187.96 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 188 132 0)
 			(hide yes)
@@ -11195,6 +11393,39 @@
 		)
 		(property "Datasheet" ""
 			(at 200 150 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 199.39 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 199.39 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 4-pad SMD tact switch fits: pads 1.0 x 0.75mm at (+/-3.0, +/-1.85)mm, body 5.1mm square, height 1.5mm."
+			(at 199.39 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11314,6 +11545,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 111.76 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 111.76 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 111.76 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 111.76 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -11515,6 +11779,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 135.89 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 135.89 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 135.89 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 135.89 272 0)
 			(hide yes)
@@ -11697,6 +11994,39 @@
 		)
 		(property "Datasheet" ""
 			(at 312 84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 312.42 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 312.42 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 312.42 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12282,6 +12612,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 116.84 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 116.84 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 116.84 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 116.84 272 0)
 			(hide yes)
@@ -12386,6 +12749,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 111.76 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 111.76 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 111.76 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 111.76 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -12510,6 +12906,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 289.56 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 289.56 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 289.56 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 290 128 0)
 			(hide yes)
@@ -12624,6 +13053,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 177.8 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 178 132 0)
 			(hide yes)
@@ -12728,6 +13190,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 127 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 127 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 127 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
 			(at 127 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12863,6 +13358,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 213.36 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 213.36 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 213.36 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 213.36 356.87 0)
 			(hide yes)
@@ -12968,6 +13496,39 @@
 		)
 		(property "Datasheet" ""
 			(at 430 128 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 430.53 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 430.53 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 430.53 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13168,6 +13729,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 214.63 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 214.63 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable. 5.1k is FIXED by the USB-C specification (CC pulldown Rd, identifies the board as a sink). Do not accept 5.6k."
+			(at 214.63 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 215 48 0)
 			(hide yes)
@@ -13273,6 +13867,39 @@
 		)
 		(property "Datasheet" ""
 			(at 352 84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 351.79 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 351.79 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 351.79 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13704,6 +14331,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 213.36 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 213.36 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 213.36 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 213.36 318.77 0)
 			(hide yes)
@@ -13809,6 +14469,39 @@
 		)
 		(property "Datasheet" ""
 			(at 430 180 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 430.53 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 430.53 180.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable. MUST be C0G/NP0 dielectric -- an X7R part's voltage and temperature coefficient detunes the NFC resonance. Target 62pF, usable window 56-68pF, may be retrimmed after VNA measurement."
+			(at 430.53 180.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14010,6 +14703,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 264.16 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 264.16 318.77 0)
 			(hide yes)
 			(show_name no)
@@ -14248,6 +14974,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 264.16 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 264.16 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 264.16 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 264.16 299.72 0)
 			(hide yes)
@@ -14353,6 +15112,39 @@
 		)
 		(property "Datasheet" ""
 			(at 470 160 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" "ST25DV04K-IER6S3"
+			(at 469.9 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" "STMicroelectronics"
+			(at 469.9 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Global distributor (Digi-Key / Mouser / LCSC). Fitted part is the ACTIVE die. The alternate is the older ST25DV04K, marked NRND by ST but still deeply stocked -- same SO-8, same pinout. Accept it only if the KC cannot be quoted."
+			(at 469.9 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14802,6 +15594,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 261.62 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 261.62 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Global distributor (Digi-Key / Mouser / LCSC). Deep stock everywhere, no sourcing risk."
+			(at 261.62 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 262 66 0)
 			(hide yes)
@@ -14919,6 +15744,39 @@
 		)
 		(property "Datasheet" ""
 			(at 59.69 272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 59.69 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 59.69 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 59.69 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15196,6 +16054,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 224.79 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 224.79 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable. 5.1k is FIXED by the USB-C specification (CC pulldown Rd, identifies the board as a sink). Do not accept 5.6k."
+			(at 224.79 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 225 48 0)
 			(hide yes)
@@ -15464,6 +16355,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 60.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 60.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 60.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 60.96 318.77 0)
 			(hide yes)
@@ -15568,6 +16492,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 264.16 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 264.16 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 264.16 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 264.16 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -15759,6 +16716,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 96.52 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 96.52 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 96.52 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
 			(at 96.52 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -16114,6 +17104,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 198.12 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 198 132 0)
 			(hide yes)
@@ -16305,6 +17328,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 209.55 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 209.55 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 209.55 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 210 132 0)
 			(hide yes)
@@ -16409,6 +17465,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 60.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 60.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 60.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 60.96 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -16524,6 +17613,39 @@
 		)
 		(property "Datasheet" ""
 			(at 312 150 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 312.42 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 312.42 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Global distributor (Digi-Key / Mouser / LCSC). NO SUBSTITUTE -- firmware binds this part's WHO_AM_I value and register map. 0.5mm pitch LGA-14, stencil required."
+			(at 312.42 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16683,6 +17805,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 314.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 314.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 314.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 314.96 356.87 0)
 			(hide yes)
@@ -16787,6 +17942,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 162.56 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 162.56 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 162.56 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 162.56 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -17219,6 +18407,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 162.56 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 162.56 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 162.56 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 162.56 337.82 0)
 			(hide yes)
@@ -17487,6 +18708,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 111.76 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 111.76 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 111.76 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 111.76 299.72 0)
 			(hide yes)
@@ -17668,6 +18922,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 55.88 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 55.88 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 55.88 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Land pattern is two 3.0 x 4.2mm SMD pads at +/-14.5mm (29mm centres). Verify any substitute against that before approving. Cell NOT supplied with the holder."
 			(at 55.88 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -17946,6 +19233,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 314.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 314.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 314.96 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 314.96 318.77 0)
 			(hide yes)
@@ -18128,6 +19448,39 @@
 		)
 		(property "Datasheet" ""
 			(at 84 132 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 83.82 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 83.82 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 83.82 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18405,6 +19758,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 350.52 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 350.52 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 350.52 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 350 150 0)
 			(hide yes)
@@ -18596,6 +19982,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 213.36 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 213.36 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 213.36 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 213.36 337.82 0)
 			(hide yes)
@@ -18701,6 +20120,39 @@
 		)
 		(property "Datasheet" ""
 			(at 70 132 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 69.85 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 69.85 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 69.85 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19055,6 +20507,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 97.79 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 97.79 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 97.79 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 97.79 272 0)
 			(hide yes)
@@ -19160,6 +20645,39 @@
 		)
 		(property "Datasheet" ""
 			(at 185 66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" "U262-161N-4BVC11"
+			(at 185.42 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" "XKB Connectivity"
+			(at 185.42 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Alternate verified mechanically drop-in against this land pattern: NPTH pegs +/-2.89 vs +/-2.90mm, shield legs +/-4.32 vs +/-4.33mm, identical 4.18mm shield row spacing and identical 0.5mm signal pad X positions."
+			(at 185.42 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19325,6 +20843,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 60.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 60.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 60.96 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 60.96 356.87 0)
 			(hide yes)
@@ -19429,6 +20980,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 60.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 60.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 60.96 337.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 60.96 337.82 0)
 			(hide yes)
 			(show_name no)
@@ -19553,6 +21137,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 424.18 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 424.18 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 424.18 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 424 58 0)
 			(hide yes)
@@ -19657,6 +21274,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 264.16 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 264.16 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 264.16 356.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 264.16 356.87 0)
 			(hide yes)
 			(show_name no)
@@ -19781,6 +21431,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 529.59 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 529.59 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 529.59 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 530 128 0)
 			(hide yes)
@@ -19885,6 +21568,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 314.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 314.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 314.96 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 314.96 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -20154,6 +21870,39 @@
 		)
 		(property "Datasheet" ""
 			(at 400 58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" "DMG2301L"
+			(at 400.05 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" "Diodes Incorporated"
+			(at 400.05 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Global distributor (Digi-Key / Mouser / LCSC). Any -30V P-channel MOSFET in SOT-23 with Vgs(th) below 1.5V is acceptable; it only has to pass gate at 3.3V logic."
+			(at 400.05 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20434,6 +22183,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 213.36 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 213.36 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 213.36 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 213.36 299.72 0)
 			(hide yes)
@@ -20625,6 +22407,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 279.4 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 279.4 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 279.4 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 280 128 0)
 			(hide yes)
@@ -20729,6 +22544,39 @@
 			)
 		)
 		(property "Datasheet" ""
+			(at 162.56 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 162.56 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 162.56 299.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
 			(at 162.56 299.72 0)
 			(hide yes)
 			(show_name no)
@@ -20844,6 +22692,39 @@
 		)
 		(property "Datasheet" ""
 			(at 64 150 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 63.5 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 63.5 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 4-pad SMD tact switch fits: pads 1.0 x 0.75mm at (+/-3.0, +/-1.85)mm, body 5.1mm square, height 1.5mm."
+			(at 63.5 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21050,6 +22931,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 76.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 76.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. NO SUBSTITUTE -- datasheet-exact land including 4 shield tabs and 2x 0.85mm NPTH locating holes. A different slide switch will not seat."
+			(at 76.2 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 76.2 60.96 0)
 			(hide yes)
@@ -21178,6 +23092,39 @@
 				)
 			)
 		)
+		(property "Alt MPN" ""
+			(at 111.76 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 111.76 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Shenzhen local stock -- PCBWay's preferred channel. Any 0603 red LED, Vf 2.0-2.2V at 20mA, fits the 0.7 x 0.7mm pads at +/-0.7mm. CRITICAL: all 24 must be ONE part number from ONE brightness bin -- these show neural activations by relative brightness, so a mixed bin makes the displayed inference physically wrong, not merely uneven."
+			(at 111.76 318.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Description" ""
 			(at 111.76 318.77 0)
 			(hide yes)
@@ -21283,6 +23230,39 @@
 		)
 		(property "Datasheet" ""
 			(at 130 175 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" "ESP32-S3-WROOM-1-N16R8"
+			(at 129.54 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" "Espressif Systems"
+			(at 129.54 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "Global distributor (Digi-Key / Mouser / LCSC). N16R8 is an acceptable memory upgrade. NEVER accept the -1U variant: that is the IPEX external-antenna part and this board's antenna keepout is cut for the PCB-antenna module."
+			(at 129.54 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21602,6 +23582,39 @@
 		)
 		(property "Datasheet" ""
 			(at 40.64 272 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt MPN" ""
+			(at 40.64 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt Mfr" ""
+			(at 40.64 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sourcing" "PCBWay house stock acceptable -- any equivalent part, same value, package, tolerance and voltage rating or better."
+			(at 40.64 271.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
