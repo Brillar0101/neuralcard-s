@@ -73,13 +73,26 @@ prototype can be cut open for probing or impedance tuning. At USB full speed ove
 a trace this short, they are ceremony. Leaving them out removes two parts and two
 solder joints from the highest speed pair on the board.
 
-## One real problem found while checking
+## A stale netlist, and why it did not matter as much as it looked
 
-`hardware/NeuralCard.net` is stale. It predates the USB-C work and shows U1 pins 13
-and 14 as unconnected, with no USB_DP, USB_DM, VBUS, CC1 or CC2 nets anywhere. A
-freshly exported netlist has all 31 nets and the USB section fully connected.
+`hardware/NeuralCard.net` was stale. It predated the USB-C work and showed U1 pins
+13 and 14 as unconnected, with no USB_DP, USB_DM, VBUS, CC1 or CC2 nets anywhere.
+Reading it was what first suggested the USB port might be unwired.
 
-The board itself is correct, so this is not a fabrication risk. It is a
-documentation risk: anyone reading the committed netlist to check connectivity, or
-using it to drive a tool, would conclude the USB port is not wired. It should be
-regenerated from the schematic and committed.
+It is regenerated now, and carries all 31 real nets. The refresh added CC1, CC2,
+USB_DM, USB_DP, VBAT_SW and VBUS, and lost nothing.
+
+The scare was smaller than it first appeared. `*.net` is in `.gitignore` and the
+file has never been tracked, which is correct: a netlist is derived from the
+schematic and regenerating it is one command. So nobody cloning this repository
+ever saw the stale version, and the board was never wrong either. The only thing
+at risk was a local tool, or a person, reading a file that KiCad had not rewritten
+since the USB-C section was added.
+
+The lesson worth keeping is to export the netlist fresh before trusting it, rather
+than reading whatever happens to be sitting in the working directory.
+
+Checked after regenerating, comparing every pin in the schematic against every pad
+on the board: 211 board pads carry nets, with zero net name disagreements and zero
+schematic pins without a matching pad. ERC 0 violations, DRC 0 violations and 0
+unconnected.
